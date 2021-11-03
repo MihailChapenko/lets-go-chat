@@ -7,4 +7,8 @@ and return it. If it has some errors function return empty string and error.
 CheckPassword function check if password is valid and return true or false
 
 ### To run the project
-* in the terminal run `go run main.go`
+* run in the terminal `go run main.go`
+
+### To see the docs in browser
+* run in the terminal `godoc -http=localhost:6060`
+* open browser on the page `localhost:6060`
